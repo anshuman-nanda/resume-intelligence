@@ -398,15 +398,6 @@ pre-commit install
 
 ---
 
-## 🏆 Recognition & Awards
-
-- 🌟 Featured on GitHub Trending
-- 📈 1000+ stars on GitHub
-- 👥 Growing community of contributors
-- 💼 Trusted by job seekers worldwide
-
----
-
 ## 📚 Documentation
 
 For detailed documentation, visit our [Wiki](https://github.com/anshuman-nanda/resume-intelligence/wiki) (coming soon).
@@ -473,15 +464,12 @@ Resume Intelligence stands on the shoulders of giants:
 - 📖 [Documentation](https://github.com/anshuman-nanda/resume-intelligence/wiki)
 - 💬 [Discussions](https://github.com/anshuman-nanda/resume-intelligence/discussions)
 - 🐛 [Issues](https://github.com/anshuman-nanda/resume-intelligence/issues)
-- 📧 Email: support@resume-intelligence.dev
 
 ### Stay Connected
 
 - ⭐ Star this repo to show your support
 - 👁️ Watch for updates and releases
 - 🍴 Fork to create your own version
-- 🐦 Follow us on Twitter [@ResumeIntel](https://twitter.com/ResumeIntel)
-- 💼 Connect on [LinkedIn](https://linkedin.com/company/resume-intelligence)
 
 ---
 
@@ -493,12 +481,6 @@ Resume Intelligence stands on the shoulders of giants:
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/anshuman-nanda/resume-intelligence)
 ![GitHub last commit](https://img.shields.io/github/last-commit/anshuman-nanda/resume-intelligence)
 ![GitHub contributors](https://img.shields.io/github/contributors/anshuman-nanda/resume-intelligence)
-
----
-
-## 🚀 Sponsors
-
-Interested in sponsoring Resume Intelligence? [Reach out to us!](mailto:sponsors@resume-intelligence.dev)
 
 ---
 
