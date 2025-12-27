@@ -38,9 +38,24 @@ pip install -r requirements.txt
 
 ### Usage
 
+ResumeMatch is currently under development. Once the core functionality is implemented, you'll be able to use it like this:
+
 ```python
-# Example usage coming soon
+from resumematch import ResumeAnalyzer, JobMatcher
+
+# Analyze a resume
+analyzer = ResumeAnalyzer()
+resume_data = analyzer.parse_resume("path/to/resume.pdf")
+
+# Match resume to job description
+matcher = JobMatcher()
+match_score = matcher.calculate_match(resume_data, job_description)
+
+# Get optimization suggestions
+suggestions = analyzer.get_optimization_tips(resume_data, job_description)
 ```
+
+*Note: This is a planned API structure. Actual implementation may vary.*
 
 ## Contributing
 
