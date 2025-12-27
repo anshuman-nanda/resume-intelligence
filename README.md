@@ -24,8 +24,13 @@ ResumeMatch helps organizations and job seekers by providing intelligent resume 
 
 ```bash
 # Clone the repository
-git clone https://github.com/anshuman-nanda/ResumeMatch.git
-cd ResumeMatch
+# Note: The repository will be renamed to ResumeMatch. Until then, use:
+git clone https://github.com/anshuman-nanda/resume-intelligence.git
+cd resume-intelligence
+
+# After the rename, you can use:
+# git clone https://github.com/anshuman-nanda/ResumeMatch.git
+# cd ResumeMatch
 
 # Install dependencies
 pip install -r requirements.txt
@@ -53,7 +58,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Project Link: [https://github.com/anshuman-nanda/ResumeMatch](https://github.com/anshuman-nanda/ResumeMatch)
+Project Link: [https://github.com/anshuman-nanda/resume-intelligence](https://github.com/anshuman-nanda/resume-intelligence)
+
+**Note**: The repository will be renamed to ResumeMatch. After the rename, the link will be: [https://github.com/anshuman-nanda/ResumeMatch](https://github.com/anshuman-nanda/ResumeMatch)
 
 ## Acknowledgments
 

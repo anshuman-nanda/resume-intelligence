@@ -45,8 +45,14 @@ Enhancement suggestions are tracked as GitHub issues. When creating an enhanceme
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/ResumeMatch.git
-cd ResumeMatch
+# Note: Replace YOUR_USERNAME with your GitHub username
+# Use the current repository name until the rename is complete:
+git clone https://github.com/YOUR_USERNAME/resume-intelligence.git
+cd resume-intelligence
+
+# After the rename, use:
+# git clone https://github.com/YOUR_USERNAME/ResumeMatch.git
+# cd ResumeMatch
 
 # Create a virtual environment
 python -m venv venv
