@@ -9,7 +9,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-[✨ Features](#-features) • [🚀 Quick Start](#-quick-start) • [📖 Documentation](#-usage) • [🗺️ Roadmap](#️-roadmap) • [🤝 Contributing](#-contributing)
+[✨ Features](#-features) • [🚀 Quick Start](#-quick-start) • [📚 Documentation](#-documentation) • [🗺️ Roadmap](#️-roadmap) • [🤝 Contributing](#-contributing)
 
 </div>
 
