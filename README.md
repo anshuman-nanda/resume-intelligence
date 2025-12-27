@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎯 Resume Intelligence
+# 🎯 ResumeMatch
 
 ### *AI-Powered Resume Analysis & Job Matching Platform*
 
@@ -15,13 +15,13 @@
 
 ---
 
-## 🌟 What is Resume Intelligence?
+## 🌟 What is ResumeMatch?
 
-**Resume Intelligence** is an ambitious AI-powered platform designed to help job seekers optimize their resumes for maximum impact. This project aims to combine natural language processing, semantic analysis, and real-time job market insights to give you a competitive advantage in your job search.
+**ResumeMatch** is an ambitious AI-powered platform designed to help job seekers optimize their resumes for maximum impact. This project aims to combine natural language processing, semantic analysis, and real-time job market insights to give you a competitive advantage in your job search.
 
 > ⚠️ **Project Status**: This is an early-stage project currently under active development. Many features described below are planned for future releases. Check the [Roadmap](#️-roadmap) section to see what's available now vs. what's coming soon.
 
-### 💡 Why Resume Intelligence? (Planned Features)
+### 💡 Why ResumeMatch? (Planned Features)
 
 - 🔒 **Privacy First**: All processing will happen locally on your machine. Your data will never leave your computer.
 - 🎯 **Precision Matching**: Advanced semantic analysis will go beyond simple keyword matching
@@ -31,11 +31,11 @@
 
 ---
 
-## 🆚 Resume Intelligence vs. Resume-Matcher
+## 🆚 ResumeMatch vs. Resume-Matcher
 
-Resume Intelligence aims to build upon the foundation laid by Resume-Matcher with these planned enhancements:
+ResumeMatch aims to build upon the foundation laid by Resume-Matcher with these planned enhancements:
 
-| Feature | Resume Intelligence (Planned) | Resume-Matcher |
+| Feature | ResumeMatch (Planned) | Resume-Matcher |
 |---------|-------------------|----------------|
 | 🔐 **Privacy** | 🔮 100% Local Processing | ✅ Local Processing |
 | 🧠 **AI Models** | 🔮 Multi-model ensemble (BERT, GPT, Custom) | ✅ Single model approach |
@@ -54,7 +54,7 @@ Resume Intelligence aims to build upon the foundation laid by Resume-Matcher wit
 
 ## ✨ Features
 
-> 📝 **Note**: Resume Intelligence is in early development. Features below represent our roadmap and vision for the project.
+> 📝 **Note**: ResumeMatch is in early development. Features below represent our roadmap and vision for the project.
 
 ### 🎯 Planned Core Capabilities
 
@@ -299,7 +299,7 @@ python app.py --resume resume.pdf --verbose
 
 ## 🤝 Contributing
 
-We love contributions! Resume Intelligence is built by the community, for the community.
+We love contributions! ResumeMatch is built by the community, for the community.
 
 ### How to Contribute
 
@@ -462,7 +462,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🙏 Acknowledgments
 
-Resume Intelligence stands on the shoulders of giants:
+ResumeMatch stands on the shoulders of giants:
 
 - **Resume-Matcher** - Inspiration for local-first resume analysis
 - **LEANN** - Best practices for lightweight, privacy-focused AI tools
@@ -503,7 +503,7 @@ Resume Intelligence stands on the shoulders of giants:
 
 <div align="center">
 
-**Made with ❤️ by the Resume Intelligence Team**
+**Made with ❤️ by the ResumeMatch Team**
 
 ⭐ **Star us on GitHub — it motivates us a lot!** ⭐
 
